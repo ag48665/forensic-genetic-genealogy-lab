@@ -1,6 +1,6 @@
 # Forensic Genetic Genealogy Lab
 
-Educational forensic genomics project for simulating SNP-based relatedness estimation and forensic genetic genealogy workflows.
+Computational genomics project exploring SNP-based relatedness estimation and forensic genetic genealogy workflows.
 
 ## Overview
 
@@ -9,6 +9,23 @@ Forensic genetic genealogy combines genomics, population genetics, and genealogi
 This project explores computational approaches for estimating genetic relatedness using simulated SNP profiles and Monte Carlo experiments.
 
 The framework demonstrates how genetic similarity can distinguish close relatives from unrelated individuals.
+
+---
+## Project Highlights
+
+✔ SNP-based relatedness estimation
+
+✔ Mendelian inheritance simulation
+
+✔ Parent-child relationship analysis
+
+✔ Sibling relationship analysis
+
+✔ First-cousin relationship analysis
+
+✔ Monte Carlo simulation framework
+
+✔ Computational forensic genomics workflow
 
 ---
 
@@ -92,6 +109,13 @@ This experiment demonstrates how genetic genealogy methods can detect more dista
 The results demonstrate a clear decrease in genetic similarity with increasing genealogical distance.
 
 ---
+## Key Takeaway
+
+This project demonstrates how genomic similarity and inheritance patterns can be used to distinguish biological relatives from unrelated individuals.
+
+The results illustrate fundamental concepts underlying forensic genetic genealogy, including relationship inference, genetic similarity estimation, and identity-by-descent analysis.
+
+---
 
 ## Identity-by-Descent (IBD)
 
@@ -116,6 +140,32 @@ The experiments in this project provide simplified educational demonstrations of
 4. How can forensic genetic genealogy support human identification?
 
 ---
+## Skills Demonstrated
+
+### Computational Genomics
+
+- Relatedness estimation
+- Identity-by-Descent concepts
+- Mendelian inheritance modelling
+- SNP profile analysis
+- Genetic similarity estimation
+
+### Bioinformatics
+
+- Genomic data simulation
+- Statistical genetics
+- Relationship inference
+- Population genetics concepts
+- Reproducible computational workflows
+
+### Programming
+
+- Python
+- Monte Carlo simulations
+- Data visualization
+- Statistical analysis
+
+---
 
 ## Methods
 
@@ -128,7 +178,25 @@ The experiments in this project provide simplified educational demonstrations of
 * Data visualization using Python
 
 ---
+## Workflow
 
+Reference Individuals
+        ↓
+SNP Profile Simulation
+        ↓
+Mendelian Inheritance Modeling
+        ↓
+Relationship Generation
+        ↓
+Genetic Similarity Estimation
+        ↓
+Monte Carlo Experiments
+        ↓
+Relationship Classification
+        ↓
+Biological Interpretation
+
+---
 ## Project Structure
 
 ```text
@@ -207,7 +275,20 @@ This project is intended for educational and research-training purposes only.
 It is not validated for forensic casework and must not be used in real investigations.
 
 ---
-
 ## Author
 
-Agata Gabara
+**Agata Gabara**
+
+Incoming MSc Bioinformatics Student
+
+Research Interests:
+
+- Computational Biology
+- Cancer Genomics
+- Population Genetics
+- Statistical Genetics
+- Machine Learning for Genomics
+
+GitHub: https://github.com/ag48665
+
+LinkedIn: https://www.linkedin.com/in/agatha-gabara-06494a37/
